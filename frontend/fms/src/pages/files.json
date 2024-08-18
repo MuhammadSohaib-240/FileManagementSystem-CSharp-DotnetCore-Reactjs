@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "document.pdf",
+    "length": 102400,
+    "creationTime": "2024-07-07T10:00:00Z",
+    "lastAccessTime": "2024-07-07T12:00:00Z",
+    "lastWriteTime": "2024-07-07T11:00:00Z",
+    "filePath": "path/to/document.pdf"
+  },
+  {
+    "id": 2,
+    "name": "image.jpg",
+    "length": 204800,
+    "creationTime": "2024-07-06T10:00:00Z",
+    "lastAccessTime": "2024-07-06T12:00:00Z",
+    "lastWriteTime": "2024-07-06T11:00:00Z",
+    "filePath": "path/to/image.jpg"
+  }
+]
